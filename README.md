@@ -45,7 +45,7 @@ Este projeto foi criado para aplicar conceitos fundamentais de:
 
 ## ✨ Demonstração
 
-![Imagem do jogo Número Secreto](./img/telaNumeroSecreto.png)
+![Imagem do jogo Número Secreto](.JogoNumeroSecreto/js-curso-2-aula_5/img/jogoNumeroSecreto.png)
 
 ## 📢 Contribuições
 
